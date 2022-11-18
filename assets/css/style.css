@@ -14,13 +14,21 @@ body {
 
 /* headings and logo */
 
-h1,
-h2 {
+h1 {
     font-family: 'Open-sans', sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #252525;
+    color: black;
 }
+
+ h5 {
+        font-family: 'Open-sans', sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        color: black;
+}
+
+
 
 #logo {
     float: left;
@@ -68,8 +76,8 @@ h2 {
     position: relative;
 }
 
-#cover-text, #cover-text h2 {
-    color:white;
+#cover-text, #cover-text h2,h5 {
+    color:black;
 
 }
 
@@ -176,4 +184,19 @@ footer{
     margin: 1%;
     padding: 5%;
     color: #3a3a3a;
+}
+
+/*gallery*/
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 1;
+
+}
+
+#photos > img {
+    width: 100%;
+    
 }
