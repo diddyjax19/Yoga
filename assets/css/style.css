@@ -198,7 +198,7 @@ footer{
 
 #photos > img {
     width: 100%;
-
+ 
 }
 
 /*benefits*/
@@ -221,11 +221,10 @@ footer{
 }
 
 #center-about {
-    padding-top: 30px;
-    width: 33%;
+     width: 33%;
     margin: 0 auto;
-    background-color: pink;
 }
+
 hr {
     border-top: 1px solid #3a3a3a;
     width: 100%;
@@ -254,4 +253,71 @@ hr {
 
 .right-about-heading p {
     text-align: right;
+}
+
+#welcome {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
+}
+
+#circle-container {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-style: solid;
+    border-color: whitesmoke;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+#circle-cover-bg {
+    background: url('../image/meditation-5286678_640.jpg') no-repeat center center;
+    height: 100%;
+    border-radius: 70%;
+}
+
+/*Create a Media queries*/
+
+
+/*For larger screen */
+
+@media screen and (max-width:1200px) {
+    #benefits {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    #welcome {
+        padding: 30px 0;
+        margin: 0;
+    }
+    #left-about, #right-about {
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+    #center-about {
+        clear: both;
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+    hr {
+        display: none;
+    }
+
+}
+/*For medium screen size from 950px*/
+@media screen and (max-width: 950px) {
+
+  /*  #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }  */
 }
