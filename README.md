@@ -189,12 +189,14 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 7. Press Enter. Your local clone will be created.
 
 ```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-> Cloning into `CI-Clone`...
-> remote: Counting objects: 10, done.
-> remote: Compressing objects: 100% (8/8), done.
-> remove: Total 10 (delta 1), reused 10 (delta 1)
-> Unpacking objects: 100% (10/10), done.
+$ git clone https://github.com/diddyjax19/Yoga.git
+Cloning into 'Yoga'...
+remote: Enumerating objects: 222, done.
+remote: Counting objects: 100% (222/222), done.
+remote: Compressing objects: 100% (159/159), done.
+remote: Total 222 (delta 79), reused 180 (delta 42), pack-reused 0
+Receiving objects: 100% (222/222), 30.36 MiB | 9.00 MiB/s, done.
+Resolving deltas: 100% (79/79), done.
 ```
 
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
