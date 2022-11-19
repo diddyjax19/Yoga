@@ -12,7 +12,7 @@ body {
     color: #3a3a3a;
 }
 
-/* headings and logo */
+/*style for headings and logo */
 
 h1 {
     font-family: 'kalam', sans-serif;
@@ -69,8 +69,6 @@ h1 {
 
 /* Hero image and cover text */
 
-
-
 #hero-outer {
     height: 600px;
     width: 100%;
@@ -78,7 +76,7 @@ h1 {
     position: relative;
 }
 
-#cover-text, #cover-text h2,h5 {
+#cover-text, #cover-text h2,h4 {
     color: black;
 }
 
@@ -101,7 +99,7 @@ h1 {
     padding-top: 40px;
     padding-left: 10px;
 
-    background-color: blue;
+    background-color: rgba(0, 0, 225, .1);
 
     bottom: 30px;
     right: 150px;
