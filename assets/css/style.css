@@ -17,7 +17,7 @@ body {
 h1 {
     font-family: 'kalam', sans-serif;
     text-transform: uppercase;
-    letter-spacing: 4px;
+    letter-spacing: 0px;
     color: black;
 }
 
@@ -69,6 +69,8 @@ h1 {
 
 /* Hero image and cover text */
 
+
+
 #hero-outer {
     height: 600px;
     width: 100%;
@@ -77,15 +79,14 @@ h1 {
 }
 
 #cover-text, #cover-text h2,h5 {
-    color:black;
-
+    color: black;
 }
 
 
 #hero-image1 {
     height: 600px;
     width: 100%;
-    background: url('../image/hero-image1.jpg')no-repeat center center;
+    background: url('..//image/meditation-5144249_1920.jpg')no-repeat center center;
 }
 
 #cover-text {
@@ -198,9 +199,8 @@ footer{
 
 #photos > img {
     width: 100%;
- 
 }
-
+ 
 /*benefits*/
 
 #benefits {
@@ -341,5 +341,15 @@ hr {
     .left-about-heading p, .right-about-heading p {
         text-align: center;
         padding: 0 20px;
+    }
+    #photos {
+        column-count: 3;
+    }
+}
+
+/*For medium screen size from 800px*/
+@media screen and (max-width: 800px) {
+    #photos {
+        column-count: 2;
     }
 }
