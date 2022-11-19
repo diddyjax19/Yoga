@@ -31,13 +31,13 @@ This is the main marketing website for Code Institute. It is designed to be resp
     -   #### Colour Scheme
         -   The two main colours used are Code Insititue red, and white.
     -   #### Typography
-        -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+        -   The Anton font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Kalam is a clean font used frequently in programming, so it is both attractive and appropriate.
     -   #### Imagery
         -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](/)
+    -   Home Page Wireframe - [View](https://diddyjax19.github.io/Yoga/index.html)
 
     -   Mobile Wireframe - [View](https://github.com/diddyjax19/Yoga/blob/main/screenshots/11.png)
 
@@ -206,6 +206,9 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ### Code
 
 -   The full-screen hero image code came from this [Pixabay post](https://pixabay.com/)
+
+-   Make your website faster and save bandwidth. TinyPNG optimizes your WebP, PNG and JPEG images by 50-80% while preserving full transparency! (125 kB [TinyPng post](https://tinypng.com/)
+
 
 -   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
