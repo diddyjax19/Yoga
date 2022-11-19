@@ -241,7 +241,7 @@ hr {
 
 .right-about-heading {
     width: 60%;
-    float: leftS;
+    float: left;
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
