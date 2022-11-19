@@ -4,7 +4,7 @@
 
 This is the main marketing website for Code Institute. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
 
-<h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
+<h2 align="center"><img src="https://github.com/diddyjax19/Yoga/blob/main/screenshots/Woman%20using%20laptop%20on%20the%20round%20wooden%20table%20with%20a%20cup%20of%20coffee%20and%20a%20notepad_Web%20screenshot.png"></h2>
 
 ## User Experience (UX)
 
