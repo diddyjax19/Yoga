@@ -72,14 +72,17 @@ This is the main marketing website for Code Institute. It is designed to be resp
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-
-
 ## Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdiddyjax19.github.io%2FYoga%2F)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdiddyjax19.github.io%2FYoga%2Fgallery.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+- Accessibility
+    - I confirmed that the colors and Fonts chosen are easy to read and accessible by running it through Lighthouse in Devtools
+    <h2 align="center"><img src="https://github.com/diddyjax19/Yoga/blob/main/assets/image/lighthous.png"></h2>
+
+
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -206,7 +209,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 -   The full-screen hero image code came from this [Pixabay post](https://pixabay.com/)
 
--   Make your website faster and save bandwidth. TinyPNG optimizes your WebP, PNG and JPEG images by 50-80% while preserving full transparency! (125 kB [TinyPng post](https://tinypng.com/)
+-   Make your website faster and save bandwidth. TinyPNG optimizes your WebP, PNG and JPEG images by 50-80% while preserving full transparency! [TinyPng post](https://tinypng.com/)
 
 
 -   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
