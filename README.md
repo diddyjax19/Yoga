@@ -80,7 +80,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdiddyjax19.github.io%2FYoga%2Fgallery.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 - Accessibility
     - I confirmed that the colors and Fonts chosen are easy to read and accessible by running it through Lighthouse in Devtools
-    <h2 align="center"><img src="https://github.com/diddyjax19/Yoga/blob/main/assets/image/22.png"></h2>
+    <h2 align="center"><img src="https://github.com/diddyjax19/Yoga/blob/main/screenshots/22.png"></h2>
 
 
 
