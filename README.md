@@ -33,8 +33,12 @@ This is the main marketing website for Yoga. It is designed to be responsibe and
 -   ### Design
     -   #### Colour Scheme
         -   The two main colours used are In Yoga Websites are Black,Grey and white.
-    -   #### Typography
+
+        -  In order to pick the background and text color i used the color grid  tool [Color Grid](https://contrast-grid.eightshapes.com//HTML5) . This provide appropriate information to make a better decision when choosing my colors.
+          
+         -   #### Typography
         -   The Anton font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. The Kalam font is the Second font used in the H1,H5 and Cover letter with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly.
+
     -   #### Imagery
         -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
 
