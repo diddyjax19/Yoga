@@ -5,7 +5,7 @@ Lastly there is a form to fill that helps them to contact us directly.
 
 [View the live project here.]( https://diddyjax19.github.io/Yoga/)
 
-This is the main marketing website for Code Institute. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
+This is the main marketing website for Yoga. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for anyone intrested in learning about yoga, beginners  or advanced.
 
 <h2 align="center"><img src="https://github.com/diddyjax19/Yoga/blob/main/screenshots/2.png"></h2>
 
@@ -149,9 +149,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Known Bugs
 
--   On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
-    -   A white gap can be seen to the right of the footer and navigation bar as a result.
--   On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
+-  No bugs at this time.
 
 ## Deployment
 
@@ -204,6 +202,9 @@ Resolving deltas: 100% (79/79), done.
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
 ## Credits
+
+-   
+-   
 
 ### Code
 
